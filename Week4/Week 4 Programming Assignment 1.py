@@ -22,5 +22,5 @@ m=int(input())
 
 n=int(input())
 
-print(arrange_number(m,n))
+print(arrange_number(m,n), end="")
 
